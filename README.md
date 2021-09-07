@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cacodex
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Javacript
-- 💞️ I’m looking to collaborate on #
 - 📫 How to reach me cacodex0@gmail.com
 
 <!---
