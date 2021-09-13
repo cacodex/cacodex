@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cacodex
+- 👋 Hi, I’m @cagri-a
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Javacript
 - 📫 How to reach me cacodex0@gmail.com
