@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cagri-a
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Javacript
+- 👀 I’m interested in Blockchain Developement, Front-end Development.
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me cacodex0@gmail.com
 
 <!---
