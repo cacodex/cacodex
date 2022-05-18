@@ -12,10 +12,19 @@
 ## Technologies 💻
 
 > #### HTML
+
 > #### CSS
+
 > #### JavaScript
 
 
 ## Stats 📊
+##### *(As a beginner)*
 
 ![Çağrı's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriatalay&theme=dark&show_icons=true)
+
+## Additions
+### Languages
+>Turkish 
+
+>English
