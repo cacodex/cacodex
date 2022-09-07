@@ -6,7 +6,7 @@
 
 > #### JavaScript
 
->### React (on learning process)
+> #### React (currently learning)
 
 ## Stats 
 
